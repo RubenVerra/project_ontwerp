@@ -1,0 +1,24 @@
+Added Component: Designator=U1(PEC12R-4XXXF-SXXXX_1)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "PEC11R-4225F-S0024"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/pec11r-4225f-s0024/bourns?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/PEC11R-4225F-S0024.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PEC11R-4225F-S0024"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "652-PEC11R-4225F-S24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Bourns/PEC11R-4225F-S0024?qs=Zq5ylnUbLm4N6UNkPX3pkQ%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC23_2 Pin=U1-1
+Added Pin To Net: NetName=NetC24_2 Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Pin To Net: NetName=NetC25_2 Pin=U1-5
+Added Member To Class: ClassName=deel1_voeding Member=Component C1 4700uF
+Added Member To Class: ClassName=IC2 Member=Component C2 10uF
+Added Member To Class: ClassName=deel1_voeding Member=Component C4 100uF
+Added Member To Class: ClassName=deel1_voeding Member=Component C5 10uF
+Added Member To Class: ClassName=IC2 Member=Component C10 10uF
+Added Member To Class: ClassName=display Member=Component U1 PEC11R-4225F-S0024
+Added Room: Name=deel1_voeding
+Added Room: Name=deel2_...
+Added Room: Name=deel3_processor
+Added Room: Name=display
+Added Room: Name=IC2

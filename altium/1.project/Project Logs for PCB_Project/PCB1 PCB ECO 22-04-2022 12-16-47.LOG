@@ -1,0 +1,27 @@
+Added Component: Designator=IC10(DIP778W43P254L2612H431Q20N)
+Add component (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/TM1637/Titan+Micro+Electronics/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Titan Micro Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TM1637"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TM1637/Titan+Micro+Electronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=IC10-1
+Added Pin To Net: NetName=NetDS1_1 Pin=IC10-2
+Added Pin To Net: NetName=NetDS1_2 Pin=IC10-3
+Added Pin To Net: NetName=NetDS1_3 Pin=IC10-4
+Added Pin To Net: NetName=NetDS1_4 Pin=IC10-5
+Added Pin To Net: NetName=NetDS1_5 Pin=IC10-6
+Added Pin To Net: NetName=NetDS1_6 Pin=IC10-7
+Added Pin To Net: NetName=NetDS1_7 Pin=IC10-8
+Added Pin To Net: NetName=NetDS1_8 Pin=IC10-9
+Added Pin To Net: NetName=NetDS1_13 Pin=IC10-12
+Added Pin To Net: NetName=NetDS1_14 Pin=IC10-13
+Added Pin To Net: NetName=NetDS1_15 Pin=IC10-14
+Added Pin To Net: NetName=NetDS1_16 Pin=IC10-15
+Added Pin To Net: NetName=NetIC10_17 Pin=IC10-17
+Added Pin To Net: NetName=NetIC10_18 Pin=IC10-18
+Add Pin To Net: Unknown Pin: Pin L1-45
+Add Pin To Net: Unknown Pin: Pin L1-46
+Added Member To Class: ClassName=display Member=Component IC10 TM1637

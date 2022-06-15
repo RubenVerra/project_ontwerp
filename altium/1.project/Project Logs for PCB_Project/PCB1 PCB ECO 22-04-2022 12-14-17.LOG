@@ -1,0 +1,26 @@
+Change Component Footprint: Designator=RE1 Old Footprint=FP-RT424615-MFG New Footprint=FP-RT424615-MFG
+Add Component: Footprint Not Found DIP778W43P254L2612H431Q20N
+Add Pin To Net: Unknown Pin: Pin IC10-1
+Add Pin To Net: Unknown Pin: Pin IC10-2
+Add Pin To Net: Unknown Pin: Pin IC10-3
+Add Pin To Net: Unknown Pin: Pin IC10-4
+Add Pin To Net: Unknown Pin: Pin IC10-5
+Add Pin To Net: Unknown Pin: Pin IC10-6
+Add Pin To Net: Unknown Pin: Pin IC10-7
+Add Pin To Net: Unknown Pin: Pin IC10-8
+Add Pin To Net: Unknown Pin: Pin IC10-9
+Add Pin To Net: Unknown Pin: Pin IC10-12
+Add Pin To Net: Unknown Pin: Pin IC10-13
+Add Pin To Net: Unknown Pin: Pin IC10-14
+Add Pin To Net: Unknown Pin: Pin IC10-15
+Add Pin To Net: Unknown Pin: Pin IC10-17
+Add Pin To Net: Unknown Pin: Pin IC10-18
+Add Pin To Net: Unknown Pin: Pin L1-45
+Add Pin To Net: Unknown Pin: Pin L1-46
+Added Pin To Net: NetName=GND Pin=L2-2
+Added Pin To Net: NetName=Netk8_2 Pin=L2-3
+Added Pin To Net: NetName=Netk8_1 Pin=L2-4
+Added Pin To Net: NetName=NetL2_1 Pin=L2-1
+Added Pin To Net: NetName=NetL2_1 Pin=T3-3
+Added Net: Name=NetL2_1
+Add Class Member: Failed to add class member : Component IC10 TM1637
